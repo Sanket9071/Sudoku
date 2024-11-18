@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Soduku\\Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|d:\\github\\soduku\\sudoku\\soduku\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|solutionrelative:soduku\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|d:\\github\\soduku\\sudoku\\soduku\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|solutionrelative:soduku\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|d:\\github\\soduku\\sudoku\\soduku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0C63A-4935-4A94-BF5A-53E6A3C7F687}|Soduku\\Soduku.csproj|solutionrelative:soduku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Program.cs",
+              "RelativeDocumentMoniker": "Soduku\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Program.cs",
+              "RelativeToolTip": "Soduku\\Program.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAN0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:40:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Game.cs",
+              "RelativeDocumentMoniker": "Soduku\\Game.cs",
+              "ToolTip": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Game.cs",
+              "RelativeToolTip": "Soduku\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:40:17.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Cell.cs",
+              "RelativeDocumentMoniker": "Soduku\\Cell.cs",
+              "ToolTip": "D:\\GitHub\\Soduku\\Sudoku\\Soduku\\Cell.cs",
+              "RelativeToolTip": "Soduku\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:40:15.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
